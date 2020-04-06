@@ -3,7 +3,7 @@
 ###### Here you can find some torrents for the greatest movies like: Casablanca, Citizen Kane, Some like it Hot... The greatest directors like: Billy Wilder, John Ford, Alfred Hitchcock... And the greatest actors like: James Stewart, Henry Fonda, Clark Gable, Cary Grant, Bette Davis, Audrey Hepburn, Marylin Monroe...
 
 
-##How to Use 
+## How to Use 
 
 1.  Find the movie (search by name, actor, etc)
 2.  Click on it and click to download 'torrent' file.
