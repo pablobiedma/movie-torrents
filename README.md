@@ -5,7 +5,7 @@
 
 ## How to Use 
 
-1.  Find the movie (search by name, actor, etc)
+1.  Find the movie (search by name in .torrents folder, or by director in other folders)
 2.  Click on it and click to download 'torrent' file.
 3.  Open the torrent file with a program like
     *  uTorrent
